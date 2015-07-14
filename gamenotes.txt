@@ -1,0 +1,17 @@
+#gamecommands
+ - help, prints a list of commands for the player
+ - status, prints all player stats e.g. health, mana, stamina, gold, level(player,skills,spells ect.).
+ - map, prints a map of the players current room.
+ - inventory, prints a list of every item in the players inventory and equiped on the player.
+ - equip "ITEM", equips an item.
+ - unequip "ITEM", unequips an item
+
+ #character classes
+ - mage
+    - starts equipped with wood staff, loin cloth, one health potion, two mana potions, one level one spell of their choice(fireball, earth shock, slicing wind, water gun.)
+ - fighter/warrior
+    - starts equipped with short sword, club or axe and three health potions.
+ - assassin
+    - starts equipped with dagger, two health potions, one stamina boost and one level one skill of their choice.
+
+  #
